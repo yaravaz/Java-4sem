@@ -1,0 +1,123 @@
+25.03.2024 14:40:55 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 14:40:55 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 14:40:55 [main] ERROR org.apache.log4j.chainsaw.Main  - error with connection!
+25.03.2024 14:41:31 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 14:41:31 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 14:41:31 [main] ERROR org.apache.log4j.chainsaw.Main  - error with connection!
+25.03.2024 14:41:57 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 14:41:57 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 14:41:57 [main] ERROR org.apache.log4j.chainsaw.Main  - error with connection!
+25.03.2024 14:42:25 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 14:42:25 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 14:42:25 [main] ERROR org.apache.log4j.chainsaw.Main  - error with connection!
+25.03.2024 14:44:27 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 14:44:27 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 14:44:27 [main] ERROR org.apache.log4j.chainsaw.Main  - error with connection!
+25.03.2024 14:45:02 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 14:45:02 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 14:45:03 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 14:45:03 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 14:55:39 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 14:55:39 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 14:55:39 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 14:55:40 [main] ERROR org.apache.log4j.chainsaw.Main  - error with transaction!
+25.03.2024 14:55:40 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 14:56:07 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 14:56:07 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 14:56:08 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 14:56:08 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 14:56:21 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 14:56:21 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 14:56:22 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 14:56:22 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 15:00:40 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 15:00:40 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 15:00:41 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 15:00:41 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 15:01:00 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 15:01:00 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 15:01:01 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 15:01:01 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 15:01:11 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 15:01:11 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 15:01:12 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 15:01:12 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 15:04:29 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 15:04:29 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 15:04:30 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 15:04:30 [main] ERROR org.apache.log4j.chainsaw.Main  - error with transaction!
+25.03.2024 15:04:30 [main] ERROR org.apache.log4j.chainsaw.Main  - error with transaction!
+25.03.2024 15:04:30 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 15:06:05 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 15:06:05 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 15:06:05 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 15:06:05 [main] ERROR org.apache.log4j.chainsaw.Main  - error with transaction!
+25.03.2024 15:06:05 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 15:07:04 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 15:07:04 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 15:07:04 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 15:07:04 [main] ERROR org.apache.log4j.chainsaw.Main  - error with transaction!
+25.03.2024 15:07:04 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 15:09:26 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 15:09:26 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 15:09:27 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 15:09:27 [main] ERROR org.apache.log4j.chainsaw.Main  - error with transaction!
+25.03.2024 15:09:27 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 15:11:04 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 15:11:04 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 15:11:05 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 15:11:05 [main] ERROR org.apache.log4j.chainsaw.Main  - error with transaction!
+25.03.2024 15:11:05 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 15:11:17 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 15:11:17 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 15:11:17 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 15:11:17 [main] ERROR org.apache.log4j.chainsaw.Main  - error with transaction!
+25.03.2024 15:11:17 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 15:11:27 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 15:11:27 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 15:11:28 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 15:11:28 [main] ERROR org.apache.log4j.chainsaw.Main  - error with transaction!
+25.03.2024 15:11:28 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 15:12:29 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 15:12:29 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 15:12:30 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 15:12:30 [main] ERROR org.apache.log4j.chainsaw.Main  - error with transaction!
+25.03.2024 15:12:30 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 15:12:48 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 15:12:48 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 15:12:49 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 15:12:49 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 15:13:00 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 15:13:00 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 15:13:01 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 15:13:01 [main] ERROR org.apache.log4j.chainsaw.Main  - error with transaction!
+25.03.2024 15:13:01 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 15:13:24 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 15:13:24 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 15:13:25 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 15:13:25 [main] ERROR org.apache.log4j.chainsaw.Main  - error with transaction!
+25.03.2024 15:13:25 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 15:14:08 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 15:14:08 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 15:14:08 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 15:14:08 [main] ERROR org.apache.log4j.chainsaw.Main  - error with transaction!
+25.03.2024 15:14:08 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 15:14:29 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 15:14:29 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 15:14:30 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 15:14:30 [main] ERROR org.apache.log4j.chainsaw.Main  - error with transaction!
+25.03.2024 15:14:30 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 15:14:43 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 15:14:43 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 15:14:43 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 15:14:43 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 15:14:53 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 15:14:53 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 15:14:53 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 15:14:53 [main] ERROR org.apache.log4j.chainsaw.Main  - error with transaction!
+25.03.2024 15:14:54 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+25.03.2024 19:31:34 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+25.03.2024 19:31:34 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+25.03.2024 19:31:35 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+25.03.2024 19:31:35 [main] ERROR org.apache.log4j.chainsaw.Main  - error with transaction!
+25.03.2024 19:31:35 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
